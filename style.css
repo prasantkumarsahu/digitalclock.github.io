@@ -1,0 +1,28 @@
+#container {
+  text-align: center;
+  border: 3px solid;
+  border-radius: 25px;
+  background-color: #222222;
+}
+#myLabel {
+  font-size: 75px;
+  color: green;
+  font-family: consolas, monospace;
+}
+.btns {
+  height: 20px;
+  width: 150px;
+  display: inline-block;
+  border: 2px solid lightgray;
+  border-radius: 18px;
+  cursor: pointer;
+}
+#btn1 {
+  background-color: red;
+}
+#btn2 {
+  background-color: blue;
+}
+#btn3 {
+  background-color: green;
+}
